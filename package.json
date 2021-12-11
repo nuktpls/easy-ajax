@@ -1,0 +1,21 @@
+{
+  "name": "easy-ajax",
+  "appLogic": "Easy Ajax",
+  "version": "1.0.0",
+  "decription": "Easy way to use ajax everywhere.",
+  "main": "index.js",
+  "keywords": [
+    "ajax;",
+    "XMLHttpRequest"
+  ],
+  "author": " <miltonbolonha@gmail.com> (Milton Bolonha <miltonbolonha@gmail.com> (edu4.dev)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuktpls/easy-ajax.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nuktpls/easy-ajax/issues"
+  },
+  "homepage": "https://github.com/nuktpls/easy-ajax#readme"
+}
